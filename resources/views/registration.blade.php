@@ -34,7 +34,7 @@
 
 		<label>First Name:</label>
 		<input type="text" name="first_name"/><br><br>
-		<label>LastName:</label>
+		<label>Last Name:</label>
 		<input type="text" name="last_name"/><br><br>
 		<label>Institution:</label>
 		<input type="text" name="inst"/><br><br>
