@@ -71,7 +71,7 @@ window.onclick = function(event) {
        	  </div>
        	  <h1 id="about">About</h1>
 
-       	  <p id="paragraph">  Project Diary is a new addition to the field of Web application. It represents a relatively new trend in the field of web application and involves the use of mobile and personal computer. Project Diary which is an amazement in the field of web application and involves the use of mobile devices as a source of any team work with any coordinator. While much of the underlying technology is already available, there are still open challenges with respect to design, usability, portability and functionality and implementation aspects.  </p>
+       	  <p id="paragraph">  PROJECT DIARY is a new addition to the field of Web application. It represents a relatively new trend in the field of web application and involves the use of mobile and personal computer. Project Diary which is an amazement in the field of web application and involves the use of mobile devices as a source of any team work with any coordinator. While much of the underlying technology is already available, there are still open challenges with respect to design, usability, portability and functionality and implementation aspects.  </p>
        	  </div>
 
 
